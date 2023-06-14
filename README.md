@@ -1,6 +1,6 @@
 # Module 1 Challenge: Case Study
 ## The Rise of Banking as a Service (BaaS) and How Marqeta Became an Industry Leader
-#
+##
 ### **Introduction**
 The concept of banking has been around since ancient Rome dating as far back as 300 BCE[1]. Even in the third century, banks were in the business of holding deposits and lending to individuals. Over the next 1700+ years, banks continued to hold deposits and lend, but the world of banking services has evolved drastically with technology. In just the last 20 years, the rise of the internet, mobile phones, payment technology, and fintechs has enabled the banking system to innovate at an accelerated pace. 
 
